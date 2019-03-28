@@ -1,0 +1,25 @@
+# github.com/keegancsmith/rpc v1.1.0
+github.com/keegancsmith/rpc
+github.com/keegancsmith/rpc/internal/svc
+# github.com/mdempsky/gocode v0.0.0-20190203001940-7fb65232883f
+github.com/mdempsky/gocode/internal/cache
+github.com/mdempsky/gocode/internal/gbimporter
+github.com/mdempsky/gocode/internal/suggest
+github.com/mdempsky/gocode/internal/lookdot
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/stamblerre/gocode v0.0.0-20190327203809-810592086997
+github.com/stamblerre/gocode/internal/suggest
+github.com/stamblerre/gocode/internal/lookdot
+# golang.org/x/lint v0.0.0-20190313153728-d0100b6bd8b3
+golang.org/x/lint
+# golang.org/x/tools v0.0.0-20190328030505-8f05a32dce9f
+golang.org/x/tools/go/buildutil
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/packages
+golang.org/x/tools/go/ast/astutil
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/go/internal/packagesdriver
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/semver
+golang.org/x/tools/internal/fastwalk
